@@ -43,7 +43,7 @@ Managing inventory is a balancing act. Retailers face two major problems:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/inventory-ai-master.git](https://github.com/kamolchaisiri/inventory-ai-master.git)
+    git clone https://github.com/kamolchaisiri/inventory-ai-master.git
     cd inventory-ai-master
     ```
 
