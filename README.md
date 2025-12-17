@@ -68,6 +68,4 @@ Managing inventory is a balancing act. Retailers face two major problems:
 <img width="1899" height="1687" alt="image" src="https://github.com/user-attachments/assets/5877157c-4d22-451f-a681-d162c9284a08" />
 
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
