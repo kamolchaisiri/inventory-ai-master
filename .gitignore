@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Generated Data (Optional: เราให้ user สร้างเองได้ แต่ถ้าอยากโชว์ไฟล์ก็ลบบรรทัดนี้ออก)
+inventory_data.csv
+
+# OS files
+.DS_Store
